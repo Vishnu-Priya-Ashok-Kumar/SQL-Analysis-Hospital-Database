@@ -16,6 +16,7 @@ Vishnu Priya Ashok Kumar
 2. [ER Diagram for Hospital Database](#er-diagram-for-hospital-database)
 3. [Implementing Various SQL Query Functions](#implementing-various-sql-query-functions)
 4. [Goal of the Project](#goal-of-the-project)
+5. [Summary](#Summary)
 
 ## Introduction
 
@@ -198,3 +199,7 @@ The primary objectives of this project are:
 15. To identify the highest staff payments.
 
 This project aims to showcase the practical application of SQL queries in hospital management and data analysis tasks.
+
+## Summary
+
+This project successfully demonstrates the application of SQL queries in managing hospital administration tasks. By analyzing the hospital database, several objectives including patient ranking, demographic analysis, disease frequency identification, and financial insights were achieved. Through these queries, valuable insights into patient demographics, disease prevalence, doctor-staff relationships, and more were obtained. Overall, this project showcases the practical utility of SQL in healthcare management, offering valuable tools for optimizing hospital operations and decision-making processes.
