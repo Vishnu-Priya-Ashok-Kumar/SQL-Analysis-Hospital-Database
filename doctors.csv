@@ -1,0 +1,21 @@
+doctor_id,doctor_name,doctor_department,doctor_appointment
+1,Adam,Anesthesiology,10AM - 1PM
+2,Ben,Ophthalmology,5PM - 8PM
+3,Charlie,Pediatrics,2PM - 5PM
+4,Diana,Otolaryngology,7PM - 10PM
+5,Edwin,Clinical Immunology,8AM - 11AM
+6,Dave,Clinical Immunology,5PM - 7PM
+7,Jenifer,General surgeon,12PM - 3PM
+8,Nick,General surgeon,10 AM - 2PM
+9,Paul,Obstetrician/gynecologists,1PM - 4PM
+10,Thomas,General surgeon,2PM - 5PM
+11,Landon ,Pediatrics,7PM -10 PM
+12,Candace ,Obstetrician/gynecologists,10AM-1PM
+13,Carole ,Gastroenterology,4PM-7PM
+14,Geraldo ,Respirology,8AM - 11AM
+15,Barbra ,Immunologists,2PM - 5PM
+16,Dolly ,Oncology,12PM-3PM
+17,Oneill,Endocrinologists,9PM - 11PM
+18,Hartman,Dermatology,2PM- 5PM
+19,Everett,Hematologists,6PM -9PM
+20,Simpson,General surgeon,4PM-7PM

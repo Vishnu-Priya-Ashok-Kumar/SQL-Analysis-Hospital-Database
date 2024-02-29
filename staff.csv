@@ -1,0 +1,21 @@
+staff_id,doctor_id,staff_name,staff_department,staff_salary
+1121,2,Brek,Ophthalmology,4500
+1122,3,Kathy,Pediatrics,4500
+1123,4,Bruce,Otolaryngology,4700
+1124,5,Liza,Clinical Immunology,4800
+1125,6,Jenifer,Clinical Immunology,4800
+1126,9,Maria,Cardiologists,5200
+1127,10,Adam,General surgeon,5100
+1128,11,Scott,General surgeon,5300
+1129,12,Natalie,Obstetrician/gynecologists,5400
+1130,1,Alicia,Anesthetist,4000
+1131,2,Edgar ,Ophthalmology,5500
+1132,7,Allen ,Circulating Nurse,5200
+1133,5,Cory,Clinical Immunology,4200
+1134,4,Cleo ,Otolaryngology,3800
+1135,14,Ferdinand ,Respirology,5600
+1136,18,Davidson,Dermatology,5400
+1137,20,Dennis,Surgery,7000
+1138,16,Hood,Oncology,4800
+1139,13,Weaver,Gastroenterology,4750
+1140,12,Boyer,Obstetrician/gynecologists,4400

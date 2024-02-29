@@ -1,0 +1,21 @@
+disease_id,disease_name,disease_lab
+1001,Heart Disease,ECG Monitoring
+1002,Asthma,Blood Test
+1003,Hepatitis,Blood Test
+1004,Lyme Disease,Blood Test
+1005,Meningococcal Disease,Blood Test
+1006,Plague,Infection screening
+1007,Norwalk Virus,Infection screening
+1008,Pneumococcal Disease,Infection screening
+1009,Tuberculosis (TB),Blood  and Infection Test
+1010,Bone Pain,X Ray Diagnosis
+1011,Knee joint Pain,X Ray Diagnosis
+1012,Spine Disease,X Ray Diagnosis
+1013,Influenza,Blood Test
+1014,Varicella,Blood Test
+1015,Dengue fever,Infection screening
+1016,Legionella,Blood Test
+1017,Rubella,Infection screening
+1018,Tularemia,Blood  and Infection Test
+1019,Escherichia coli (E. coli),Infection screening
+1020,Meningococcal,Blood  and Infection Test
